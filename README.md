@@ -1,2 +1,2 @@
 # KrsDev-s-Dribblings
-Full Stack JS,  json developer in need of inspiration and direction !!!.
+Full Stack JS, jQuery, JSON developer in need of inspiration and direction !!!.
